@@ -1,0 +1,16 @@
+C:\Users\Туяна\Desktop\domashka6\zadacha41\obj\MCD\Debug\net6.0\zadacha41.GlobalUsings.g.cs
+C:\Users\Туяна\Desktop\domashka6\zadacha41\obj\MCD\Debug\net6.0\zadacha41.csproj.AssemblyReference.cache
+C:\Users\Туяна\Desktop\domashka6\zadacha41\obj\MCD\Debug\net6.0\zadacha41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Туяна\Desktop\domashka6\zadacha41\obj\MCD\Debug\net6.0\zadacha41.AssemblyInfoInputs.cache
+C:\Users\Туяна\Desktop\domashka6\zadacha41\obj\MCD\Debug\net6.0\zadacha41.AssemblyInfo.cs
+C:\Users\Туяна\Desktop\domashka6\zadacha41\obj\MCD\Debug\net6.0\zadacha41.csproj.CoreCompileInputs.cache
+C:\Users\Туяна\Desktop\domashka6\zadacha41\bin\MCD\Debug\net6.0\zadacha41.exe
+C:\Users\Туяна\Desktop\domashka6\zadacha41\bin\MCD\Debug\net6.0\zadacha41.deps.json
+C:\Users\Туяна\Desktop\domashka6\zadacha41\bin\MCD\Debug\net6.0\zadacha41.runtimeconfig.json
+C:\Users\Туяна\Desktop\domashka6\zadacha41\bin\MCD\Debug\net6.0\zadacha41.dll
+C:\Users\Туяна\Desktop\domashka6\zadacha41\bin\MCD\Debug\net6.0\ref\zadacha41.dll
+C:\Users\Туяна\Desktop\domashka6\zadacha41\bin\MCD\Debug\net6.0\zadacha41.pdb
+C:\Users\Туяна\Desktop\domashka6\zadacha41\obj\MCD\Debug\net6.0\zadacha41.dll
+C:\Users\Туяна\Desktop\domashka6\zadacha41\obj\MCD\Debug\net6.0\ref\zadacha41.dll
+C:\Users\Туяна\Desktop\domashka6\zadacha41\obj\MCD\Debug\net6.0\zadacha41.pdb
+C:\Users\Туяна\Desktop\domashka6\zadacha41\obj\MCD\Debug\net6.0\zadacha41.genruntimeconfig.cache
